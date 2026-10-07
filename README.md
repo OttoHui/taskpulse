@@ -31,13 +31,13 @@ project demonstration.
 ## Install
 
 ```bash
-pip install taskpulse
+pip install taskpulse-group24
 ```
 
 For local development:
 
 ```bash
-git clone <your-public-repository-url>
+git clone https://github.com/OttoHui/taskpulse.git
 cd taskpulse
 pip install -e ".[dev]"  # or: pip install -e .
 pytest
@@ -86,8 +86,9 @@ Suggested team split for Group 24:
 - **Hong Shing WONG:** documentation, examples, and PyPI metadata.
 - **Chun Hin YIU:** demo, presentation wiki, and release verification.
 
-Make small commits by feature, review each other's pull requests, and replace
-the placeholder repository URL in `pyproject.toml` before publishing.
+Make small commits by feature and review each other's pull requests. The
+published distribution is named `taskpulse-group24`; its import name remains
+`taskpulse`.
 
 ## One-minute demonstration
 

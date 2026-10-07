@@ -15,8 +15,8 @@ A local-first Python package for turning a task list into a realistic daily plan
 
 ## Project links
 
-- GitHub: [Add repository URL]
-- PyPI: [Add project page URL]
+- GitHub: https://github.com/OttoHui/taskpulse
+- PyPI: https://pypi.org/project/taskpulse-group24/
 - Demo video / slides: [Add link]
 
 ## Motivation
@@ -58,7 +58,7 @@ The package uses a straightforward scoring strategy:
 Install and run:
 
 ```bash
-pip install taskpulse
+pip install taskpulse-group24
 # or from the repo:
 python -m pip install -e .
 ```
