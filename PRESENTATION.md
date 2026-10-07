@@ -17,6 +17,7 @@ A local-first Python package for turning a task list into a realistic daily plan
 
 - GitHub: https://github.com/OttoHui/taskpulse
 - PyPI: https://pypi.org/project/taskpulse-24/
+- Publish workflow: https://github.com/OttoHui/taskpulse/actions/workflows/pypi-publish.yml
 - Demo video / slides: [Add link]
 
 ## Motivation
@@ -100,7 +101,7 @@ Expected output:
 - CLI and Python API available
 - Tests included
 - Documentation prepared
-- Release workflow ready for GitHub + PyPI
+- Version 0.1.0 published to PyPI with GitHub Actions trusted publishing
 
 ## Q&A prompts
 
@@ -113,9 +114,9 @@ Expected output:
 
 ## Final checklist before submission
 
-- [ ] Add real GitHub repository link
-- [ ] Add real PyPI link
+- [x] Add real GitHub repository link
+- [x] Add real PyPI link
 - [x] Update team member names
 - [ ] Add demo video or slide deck link
-- [ ] Finalize the README and package metadata
+- [x] Finalize the README and package metadata
 - [ ] Practice the 1-minute demo
