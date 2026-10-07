@@ -31,7 +31,7 @@ project demonstration.
 ## Install
 
 ```bash
-pip install taskpulse-group24
+pip install taskpulse-24
 ```
 
 For local development:
@@ -87,7 +87,7 @@ Suggested team split for Group 24:
 - **Chun Hin YIU:** demo, presentation wiki, and release verification.
 
 Make small commits by feature and review each other's pull requests. The
-published distribution is named `taskpulse-group24`; its import name remains
+published distribution is named `taskpulse-24`; its import name remains
 `taskpulse`.
 
 ## One-minute demonstration
