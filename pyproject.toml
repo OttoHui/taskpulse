@@ -21,9 +21,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-group/taskpulse"
-Repository = "https://github.com/your-group/taskpulse"
-Documentation = "https://github.com/your-group/taskpulse#readme"
+Homepage = "https://github.com/OttoHui/taskpulse"
+Repository = "https://github.com/OttoHui/taskpulse"
+Documentation = "https://github.com/OttoHui/taskpulse#readme"
 
 [project.optional-dependencies]
 dev = ["pytest>=8", "ruff>=0.6"]
